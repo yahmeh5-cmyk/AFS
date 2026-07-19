@@ -1,0 +1,37 @@
+==========================================
+YHMH SPY — Full Export
+PlaceId: 130247632398296
+Player: LouisLaine2
+UserId: 3560077255
+Game: [DIMENSION 3] Anime Fighting Simulator: Endless
+Time: 2026-07-18 23:42:07
+Remotes captured: 0
+==========================================
+
+=== ALL REMOTES IN GAME ===
+1. CmdrFunction [RemoteFunction] ReplicatedStorage.CmdrClient.CmdrFunction
+2. CmdrEvent [RemoteEvent] ReplicatedStorage.CmdrClient.CmdrEvent
+3. RemoteFunction [RemoteFunction] ReplicatedStorage.shared.Remotes.RemoteFunction
+4. RemoteEvent [RemoteEvent] ReplicatedStorage.shared.Remotes.RemoteEvent
+5. SaveFunction [RemoteFunction] ReplicatedStorage.shared.Remotes.SaveFunction
+6. GeneralFunction [RemoteFunction] ReplicatedStorage.shared.Remotes.GeneralFunction
+7. BattlePassFunction [RemoteFunction] ReplicatedStorage.shared.Remotes.BattlePassFunction
+8. BattlePassEvent [RemoteEvent] ReplicatedStorage.shared.Remotes.BattlePassEvent
+9. DailyReward [RemoteFunction] ReplicatedStorage.shared.Remotes.DailyReward
+10. effectReplicator [RemoteEvent] ReplicatedStorage.shared.Remotes.effectReplicator
+11. ArtifactsRemote [RemoteEvent] ReplicatedStorage.shared.Remotes.ArtifactsRemote
+12. ConvertRemote [RemoteEvent] ReplicatedStorage.shared.Remotes.ConvertRemote
+13. TitleRemote [RemoteEvent] ReplicatedStorage.shared.Remotes.TitleRemote
+14. TraitRemote [RemoteEvent] ReplicatedStorage.shared.Remotes.TraitRemote
+15. UpdateLeaderboard [RemoteEvent] ReplicatedStorage.shared.Remotes.UpdateLeaderboard
+16. CrateRemote [RemoteEvent] ReplicatedStorage.shared.Remotes.CrateRemote
+17. requestReward [RemoteEvent] ReplicatedStorage.shared.Remotes.requestReward
+18. DebugRemote [RemoteEvent] ReplicatedStorage.shared.Remotes.DebugRemote
+19. InfCastle [RemoteEvent] ReplicatedStorage.shared.Remotes.InfCastle
+20. TokensMarket [RemoteEvent] ReplicatedStorage.shared.Remotes.TokensMarket
+21. Cards [RemoteEvent] ReplicatedStorage.shared.Remotes.Cards
+22. Evolve [RemoteEvent] ReplicatedStorage.shared.Remotes.Evolve
+23. AutoSkill [RemoteEvent] ReplicatedStorage.shared.Remotes.AutoSkill
+24. ShenronWish [RemoteEvent] ReplicatedStorage.shared.Remotes.ShenronWish
+25. _AdminAbuse [RemoteEvent] ReplicatedStorage.shared.Remotes._AdminAbuse
+Total: 25
